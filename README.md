@@ -13,6 +13,6 @@ OR
 You can check the test play video: https://youtu.be/TG7JryG9A5E?si=S5CWGX-R3vooLjJS
 
 ## Project Process
-1. check and sort out the requirements for the app: https://github.com/01-edu/public/tree/master/subjects/gaming/nascar-online-alpha 
+1. check and sort out the requirements for the app: https://github.com/01-edu/public/tree/master/subjects/gaming/zombie-ai 
 2. gather assets
 3. Blueprinting!
