@@ -26,7 +26,7 @@ I used a lot of third party assets provided on Fab market place. Models and anim
 
 ## How to Play
 
-To play the game, execute `ZombieAi.exe` in the project folder.
+To play the game, download `Windows` folder and execute `ZombieAi.exe` in the folder.
 
 - move around by WASD
 - look around by mouse
